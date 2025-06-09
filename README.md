@@ -41,7 +41,7 @@ AIDiagnosis/
 
 1. **Clone the repository:**
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/shrchrds/AIDiagnosis.git
    cd AIDiagnosis
    ```
 
