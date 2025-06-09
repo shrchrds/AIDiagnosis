@@ -3,7 +3,8 @@ import requests
 import os 
 
 st.title("🩺 AI Medical Diagnostics Assistant")
-api_url = "http://localhost:8000"
+# api_url = "http://localhost:8000"
+api_url = "https://ai-diagnosis-npob.onrender.com"
 symptom_input = st.text_area("Describe your symptoms")
 
 if st.button("Get Diagnosis"):
